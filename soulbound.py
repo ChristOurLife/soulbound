@@ -9,7 +9,7 @@ pygame.init()
 # Initial screen size
 screen_width, screen_height = 1080, 720
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption("Difficulty Scaling Game")
+pygame.display.set_caption("Soulbound- BETA")
 
 # Colors
 WHITE = (255, 255, 255)
